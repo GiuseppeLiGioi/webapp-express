@@ -1,4 +1,4 @@
-const arrPosts = require('../data/data'); 
+const arrPosts = require('../data/data.js'); 
 const connection = require('../data/db.js')
 
 
